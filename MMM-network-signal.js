@@ -25,6 +25,8 @@ Module.register("MMM-network-signal", {
 		return {
 			en: "translations/en.json",
       		es: "translations/es.json",
+                fr: "translations/fr.json",
+                de: "translations/de.json"
 		};
 	},
 
